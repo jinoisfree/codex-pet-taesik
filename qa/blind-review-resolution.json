@@ -1,0 +1,15 @@
+{
+  "overall": "pass",
+  "severeIssues": [],
+  "minorIssues": [
+    "일부 인접 대각선 각도는 작은 표시 크기에서 구분성이 다소 낮을 수 있다."
+  ],
+  "resolution": "핵심 방향 하드 게이트와 전체 시각 QA가 통과했고, 남은 항목은 미세한 대각선 보간 경고이므로 최종 패키징을 승인한다.",
+  "requirementChecks": {
+    "lookBodyReducedAbout25Percent": "pass",
+    "jumpBodyPreserved": "pass",
+    "phonePoseBackCushion": "pass",
+    "movementTwoFeetShortLegs": "pass",
+    "technicalValidation": "pass"
+  }
+}

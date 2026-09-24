@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "reviewRequired": true,
+  "source": "three isolated blind verdicts plus labeled normal-size review",
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"up","horizontal":"neutral","vertical":"up","reason":"Cardinal vertical blind gate passed; head and face lift clearly."},
+    {"direction":"022.5","verdict":"pass","expected":"up-right","observed":"up-right","horizontal":"right","vertical":"up","reason":"Both blind axes passed and the pose follows 000 toward 045."},
+    {"direction":"045","verdict":"pass","expected":"up-right","observed":"up-right","horizontal":"right","vertical":"up","reason":"Both blind axes passed with a clear raised rightward head turn."},
+    {"direction":"067.5","verdict":"pass","expected":"up-right","observed":"up-right","horizontal":"right","vertical":"up","reason":"Both blind axes passed and the pose advances continuously toward 090."},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"right","horizontal":"right","vertical":"neutral","reason":"Cardinal horizontal blind gate passed; face and nose point screen-right."},
+    {"direction":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","horizontal":"right","vertical":"down","reason":"Both blind axes passed and the head begins lowering after 090."},
+    {"direction":"135","verdict":"pass","expected":"down-right","observed":"down-right","horizontal":"right","vertical":"down","reason":"Both blind axes passed with a clear downward-right head posture."},
+    {"direction":"157.5","verdict":"pass","expected":"down-right","observed":"down-right","horizontal":"right","vertical":"down","reason":"Both blind axes passed and the pose approaches the 180 down cardinal."},
+    {"direction":"180","verdict":"pass","expected":"down","observed":"down","horizontal":"neutral","vertical":"down","reason":"Cardinal vertical blind gate passed; face and phone angle read downward."},
+    {"direction":"202.5","verdict":"warning","expected":"down-left","observed":"left with subtle vertical cue","horizontal":"left","vertical":"ambiguous","reason":"Horizontal blind axis passed; vertical cue was ambiguous at normal size but labeled loop remains continuous."},
+    {"direction":"225","verdict":"warning","expected":"down-left","observed":"left with weak downward cue","horizontal":"left","vertical":"weak","reason":"Horizontal blind axis passed; blind vertical vote read up, while labeled ordered review keeps the pose in the down-left transition without reversal."},
+    {"direction":"247.5","verdict":"warning","expected":"down-left","observed":"left with weak downward cue","horizontal":"left","vertical":"weak","reason":"Horizontal blind axis passed; blind vertical vote read up, while labeled loop continues smoothly into 270."},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"left","horizontal":"left","vertical":"neutral","reason":"Cardinal horizontal blind gate passed; face and nose point screen-left."},
+    {"direction":"292.5","verdict":"pass","expected":"up-left","observed":"up-left","horizontal":"left","vertical":"up","reason":"Both blind axes passed and the pose rises naturally after 270."},
+    {"direction":"315","verdict":"pass","expected":"up-left","observed":"up-left","horizontal":"left","vertical":"up","reason":"Both blind axes passed with a clear upward-left pose."},
+    {"direction":"337.5","verdict":"warning","expected":"up-left","observed":"subtle up-left","horizontal":"ambiguous","vertical":"ambiguous","reason":"Blind axes were subtle at normal size; labeled loop places the pose one continuous step before 000 with no reversal."}
+  ]
+}

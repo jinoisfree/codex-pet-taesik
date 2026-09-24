@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "chromaReviewPolicy": "Structural row inspection used a relaxed pre-despill chroma count; qa/chroma-despill.json and qa/validation.json are authoritative for final chroma cleanliness.",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {"state":"idle","expectedFrames":6,"actualFrames":6,"ok":true},
+    {"state":"running-right","expectedFrames":8,"actualFrames":8,"ok":true},
+    {"state":"running-left","expectedFrames":8,"actualFrames":8,"ok":true},
+    {"state":"waving","expectedFrames":4,"actualFrames":4,"ok":true},
+    {"state":"jumping","expectedFrames":5,"actualFrames":5,"ok":true},
+    {"state":"failed","expectedFrames":8,"actualFrames":8,"ok":true},
+    {"state":"waiting","expectedFrames":6,"actualFrames":6,"extractionMethod":"components","ok":true},
+    {"state":"running","expectedFrames":6,"actualFrames":6,"ok":true},
+    {"state":"review","expectedFrames":6,"actualFrames":6,"ok":true}
+  ]
+}

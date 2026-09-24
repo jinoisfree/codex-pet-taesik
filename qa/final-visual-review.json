@@ -1,0 +1,26 @@
+{
+  "visual_qa": "pass",
+  "reviewed_artifacts": [
+    "contact-sheet.png",
+    "look-directions.png",
+    "previews/waiting.gif",
+    "review.json",
+    "direction-semantics.json",
+    "direction-blind-validation.json",
+    "look-continuity.json",
+    "../final/validation.json"
+  ],
+  "waiting": {
+    "verdict": "pass",
+    "reason": "Six complete frames show the phone lowered and a small asking-paw gesture without a laptop, detached effects, clipping, or identity drift."
+  },
+  "state_distinction": {
+    "verdict": "pass",
+    "reason": "Waiting is now visually distinct from active laptop work in running and glasses-assisted inspection in review."
+  },
+  "look_directions": {
+    "verdict": "pass_with_warnings",
+    "reason": "Rows 9 and 10 are pixel-identical to approved v13. Cardinals pass; subtle diagonal cues remain documented warnings."
+  },
+  "blocking_issues": []
+}

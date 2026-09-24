@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "release": "1.0.0",
+  "petId": "phone-cat",
+  "displayName": "태식이",
+  "spriteVersionNumber": 2,
+  "dimensions": [1536, 2288],
+  "grid": [8, 11],
+  "usedCells": 74,
+  "unusedCells": 14,
+  "changedRowsFromV13": [6],
+  "waitingDistinctFromRunning": true,
+  "frameReview": "pass",
+  "chromaDespill": "pass",
+  "atlasValidation": "pass",
+  "directionCardinals": "pass",
+  "directionIntermediateWarnings": ["202.5", "225", "247.5", "337.5"],
+  "visualQa": "pass",
+  "spritesheetSha256": "316b98b0445cdf0ac50dda91128e5772366f49787a4634addbfb1409c99dca35",
+  "manifestSha256": "a5cf2501aaa1a0dd6170fc36c0bd967c2f6b2954fd19eccaad912e74b8f1c4d2"
+}

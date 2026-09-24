@@ -1,0 +1,15 @@
+{
+  "base_version": "phone-cat v13",
+  "base_sha256": "a8467aecb2ed96d4f06a447cc25428245f49ace0364bea23a27291775725e7f0",
+  "changed_rows": [6],
+  "unchanged_rows": [0, 1, 2, 3, 4, 5, 7, 8, 9, 10],
+  "look_rows_pixel_identical_to_approved_v13": true,
+  "reused_evidence": [
+    "direction-blind-verdict-1.json",
+    "direction-blind-verdict-2.json",
+    "direction-blind-verdict-3.json",
+    "direction-blind-validation.json",
+    "blind-review-resolution.json"
+  ],
+  "note": "Only the waiting row changed. Look rows 9 and 10 are pixel-identical to the previously approved v13 atlas, so its isolated blind-direction evidence remains applicable."
+}
