@@ -1,4 +1,7 @@
 {
+  "release": "1.0.0",
+  "status": "historical",
+  "supersededBy": "v1.1.0-visual-review.json",
   "visual_qa": "pass",
   "reviewed_artifacts": [
     "contact-sheet.png",

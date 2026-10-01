@@ -6,3 +6,6 @@ __pycache__/
 work/
 dist/
 backups/
+source/generated/spritesheet-v2-candidate.webp
+source/generated/spritesheet-v2-quantized.webp
+source/generated/taesik-design-v2.png

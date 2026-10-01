@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "release": "1.0.0",
+  "release": "1.1.0",
   "petId": "phone-cat",
   "displayName": "태식이",
   "spriteVersionNumber": 2,
@@ -8,14 +8,21 @@
   "grid": [8, 11],
   "usedCells": 74,
   "unusedCells": 14,
-  "changedRowsFromV13": [6],
+  "changedRowsFromV13": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
   "waitingDistinctFromRunning": true,
   "frameReview": "pass",
-  "chromaDespill": "pass",
+  "chromaDespill": "not required after transparent RGBA edge cleanup",
   "atlasValidation": "pass",
-  "directionCardinals": "pass",
-  "directionIntermediateWarnings": ["202.5", "225", "247.5", "337.5"],
+  "directionCardinals": "visual-pass",
+  "directionIntermediateReview": "visual-pass; independent blind review not repeated",
+  "directionIntermediateWarnings": ["independent blind-direction review not repeated for 1.1.0"],
   "visualQa": "pass",
-  "spritesheetSha256": "316b98b0445cdf0ac50dda91128e5772366f49787a4634addbfb1409c99dca35",
-  "manifestSha256": "a5cf2501aaa1a0dd6170fc36c0bd967c2f6b2954fd19eccaad912e74b8f1c4d2"
+  "spritesheetSha256": "5db4876ce6d3eae3087f2a248a4354862c55354dc322606fe9818eaa67e40ef2",
+  "manifestSha256": "2fcd0cf0bd837101f7dea00ef8aadf1eb8397e0835fffde5b96f5e1c0cd138bd",
+  "evidence": [
+    "v1.1.0-validation.json",
+    "v1.1.0-frame-analysis.json",
+    "v1.1.0-visual-review.json",
+    "v1.1.0-provenance.json"
+  ]
 }

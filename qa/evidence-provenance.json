@@ -1,4 +1,7 @@
 {
+  "release": "1.0.0",
+  "status": "historical",
+  "supersededBy": "v1.1.0-provenance.json",
   "base_version": "phone-cat v13",
   "base_sha256": "a8467aecb2ed96d4f06a447cc25428245f49ace0364bea23a27291775725e7f0",
   "changed_rows": [6],

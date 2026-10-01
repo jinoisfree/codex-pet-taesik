@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "release": "1.1.0",
+  "petId": "phone-cat",
+  "displayName": "태식이",
+  "spriteVersionNumber": 2,
+  "dimensions": [1536, 2288],
+  "grid": [8, 11],
+  "usedCells": 74,
+  "unusedCells": 14,
+  "transparentRgbResiduePixels": 0,
+  "waitingDistinctFromRunning": true,
+  "allAdjacentFramesDistinct": true,
+  "spritesheetSha256": "5db4876ce6d3eae3087f2a248a4354862c55354dc322606fe9818eaa67e40ef2",
+  "manifestSha256": "2fcd0cf0bd837101f7dea00ef8aadf1eb8397e0835fffde5b96f5e1c0cd138bd"
+}

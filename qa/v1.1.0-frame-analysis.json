@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "method": "RGBA adjacent-frame pixel difference after global palette normalization",
+  "rows": [
+    {"row": 0, "state": "idle", "frames": 7, "minAdjacentDiffPixels": 16708, "maxAdjacentDiffPixels": 18876},
+    {"row": 1, "state": "running-right", "frames": 8, "minAdjacentDiffPixels": 15709, "maxAdjacentDiffPixels": 16906},
+    {"row": 2, "state": "running-left", "frames": 8, "minAdjacentDiffPixels": 15025, "maxAdjacentDiffPixels": 16844},
+    {"row": 3, "state": "waving", "frames": 4, "minAdjacentDiffPixels": 17585, "maxAdjacentDiffPixels": 18133},
+    {"row": 4, "state": "jumping", "frames": 5, "minAdjacentDiffPixels": 12811, "maxAdjacentDiffPixels": 16605},
+    {"row": 5, "state": "failed", "frames": 8, "minAdjacentDiffPixels": 9262, "maxAdjacentDiffPixels": 17890},
+    {"row": 6, "state": "waiting", "frames": 6, "minAdjacentDiffPixels": 17556, "maxAdjacentDiffPixels": 19153},
+    {"row": 7, "state": "running", "frames": 6, "minAdjacentDiffPixels": 19451, "maxAdjacentDiffPixels": 20985},
+    {"row": 8, "state": "review", "frames": 6, "minAdjacentDiffPixels": 21856, "maxAdjacentDiffPixels": 23093},
+    {"row": 9, "state": "look-000-to-157.5", "frames": 8, "minAdjacentDiffPixels": 12077, "maxAdjacentDiffPixels": 16833},
+    {"row": 10, "state": "look-180-to-337.5", "frames": 8, "minAdjacentDiffPixels": 11232, "maxAdjacentDiffPixels": 12497}
+  ]
+}

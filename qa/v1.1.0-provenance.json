@@ -1,0 +1,19 @@
+{
+  "release": "1.1.0",
+  "referenceRepository": "https://github.com/jinoisfree/AIpet",
+  "referenceCommit": "6aadb38",
+  "referenceFinding": "AIpet은 1.0.0과 동일한 자산을 사용하고 자세별 크기·기준선을 런타임에서 보정한다.",
+  "generationMode": "built-in image generation edit",
+  "sourcePrompt": "source/prompts/redesign-v2.md",
+  "normalizationScript": "scripts/prepare_redesign.py",
+  "cleanupInputPngSha256": "b5feb5ec57854721cc453fd4868f0f87027cdcb94c653f3985d361b14e13cba7",
+  "finalSpritesheetSha256": "5db4876ce6d3eae3087f2a248a4354862c55354dc322606fe9818eaa67e40ef2",
+  "normalization": {
+    "dimensions": [1536, 2288],
+    "paletteColors": 48,
+    "lowAlphaCutoff": 32,
+    "losslessWebp": true,
+    "exactTransparentRgb": true,
+    "unusedCellsCleared": 14
+  }
+}

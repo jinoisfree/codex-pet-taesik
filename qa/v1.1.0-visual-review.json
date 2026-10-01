@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "release": "1.1.0",
+  "reviewedAt": "2026-10-01",
+  "reviewedArtifacts": [
+    "pet/spritesheet.webp",
+    "preview/contact-sheet.png",
+    "preview/look-directions.png",
+    "preview/animations/waiting.gif",
+    "preview/animations/running.gif",
+    "preview/animations/review.gif"
+  ],
+  "checks": {
+    "identity": "pass: 삼색 무늬·파란 쿠션·통통한 실루엣·소품을 유지함",
+    "styleConsistency": "pass: 선 굵기·따뜻한 크림색·갈색 무늬·파란 쿠션 팔레트가 전 프레임에서 일관됨",
+    "stateMeaning": "pass: waiting·running·review와 이동·파동·점프·실패 동작이 서로 구분됨",
+    "lookDirections": "pass: 마지막 두 행의 16방향 시선 순서와 좌·우 기본 방향을 유지함",
+    "clippingAndArtifacts": "pass: 잘린 꼬리·발·소품, 유령 픽셀, 유색 가장자리 오염이 없음"
+  },
+  "blockingIssues": []
+}
